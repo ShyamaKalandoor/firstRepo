@@ -1,0 +1,34 @@
+Git used for version control, open source
+clone the project to git from local directory
+on local pc, use git clone <path to my gitbucket folder>
+cd to new folderf locally
+git add copy the file from working to staging
+gir commit only move file from staging area to git bucket
+git commit, commit to local repository
+git push
+git push origin master
+
+
+git pull
+
+Git Head and Branch
+git log	commit istory
+git checkout task-1
+git log
+
+
+
+git config	user name & email id
+Git init	inirialize and empty repository
+Git add		Add content to staging area
+Git commit	single commit for all files staging area(lcao)
+Git diff	changes made 
+
+Git reset	undo the changes
+Git status	state of staging area
+Git merge	from one branch to anotehr branch
+
+
+
+
+
